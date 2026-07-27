@@ -1,0 +1,12 @@
+# Données : trop lourdes, reconstituables via les scripts
+data/
+
+# Environnement Python : propre à chaque machine
+.venv/
+
+# Fichiers techniques de PyCharm
+.idea/
+
+# Caches Python
+__pycache__/
+*.pyc
